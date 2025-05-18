@@ -53,7 +53,7 @@ This repository documents a comprehensive manual QA process for mobile push noti
 
 ## 👩‍💻 Author
 **Thilini Kumarawadu**  
-Manual QA Engineer | Mobile App Testing | Passionate about edge-case exploration 🚀
+QA Engineer | Mobile App Testing | Passionate about edge-case exploration 🚀
 
 ---
 
