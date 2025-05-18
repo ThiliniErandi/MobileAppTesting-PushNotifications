@@ -1,6 +1,3 @@
-# Mobile-Push-Notification-Testing
-This repository outlines comprehensive manual testing scenarios conducted on mobile app push notifications, covering a wide range of conditions, device states, and authentication flows. The aim is to ensure consistent, timely, and secure delivery of push notifications across platforms.
-
 # 📲 Mobile Push Notification Manual Testing
 
 This repository documents a comprehensive manual QA process for mobile push notification features across Android and iOS platforms. The test cases cover multiple edge cases, app states, user types, and security expectations to ensure high reliability and user experience.
